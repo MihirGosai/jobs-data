@@ -90,8 +90,7 @@ let sharedUrls = [
 	'https://www.virtualmarine.ca/careers',
 	'https://us.bluedriver.com/pages/careers',
 	'https://strobeltek.com/careers/',
-	'https://verafin.com/careers/',
-	'http://radient360.com/r360careers/',
+	'https://verafin.com/careers/'
 ]
 
 function getLink(posting) {
